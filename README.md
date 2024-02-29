@@ -14,7 +14,7 @@ approach
 
 </p>
 <p align="center">
-  <img src="https://github.com/giannisvassiliou/LFS-ICDE-2024/blob/main/lfs2.JPG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/giannisvassiliou/KGFaq/ulysses.png"/>
 </p>
 
 ## LFS Data Creator
