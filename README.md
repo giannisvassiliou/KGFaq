@@ -1,22 +1,15 @@
-# Love-at-First-Sight:First-Sight Summaries for Rapid Query Answering  in Big Knowledge Graphs
-The increasing number of large knowledge graphs now available
-online requires methods for their effective and efficient exploration.
-Most of these knowledge graphs offer online SPARQL endpoints for
-querying and exploring their data. In a typical scenario, the users
-issue coarse exploratory queries at the beginning, refining them
-further in the sequel in order to find the answer to the question
-in mind. However, those coarse exploratory queries are costly to
-evaluate as they usually involve many results and take too much
-time to be answered, or even worse they time out, limiting the
-exploration potential of the data they expose.
-In this paper, we present the LFS (Love-at-First-Sight) system,
-offering a unique solution to the aforementioned problem, enabling
-users to get the first answers to their queries rapidly. More specifically we are the first to define the problem of constructing a firstsight summary, i.e., a summary able to provide rapidly the first
-answers to user queries. We provide effective algorithms for their
-construction, relying on existing query logs, and we both analytically and experimentally show the big benefits of the proposed
-summaries. They have a compact size, and they can efficiently
-provide first answers (even to unseen) user queries, improving by
-orders of magnitude query response times
+# ULYSSES: FreqUentLY ASked QueStions for KnowlEdge GraphS
+
+The exponential growth of knowledge graphs necessitates effective and efficient methods for their exploration and understanding.
+Frequently Asked Questions (FAQ) is a list of questions and answers
+related to a specific topic intended to help people understand a particular subject. In this paper, we present ULYSSES, the first system
+for automatically constructing a FAQ for large Knowledge Graphs. Our
+method consists of three key steps. First, we select the most frequent
+questions by exploiting available query logs. In the sequel, we answer the
+selected queries using the original graph and finally, we construct textual
+descriptions of both the queries and the corresponding answers exploring state-of-the-art transformer models, i.e., ChatGTP and Gemini. We
+evaluate the results of each model using a human-constructed FAQ, contributing a unique dataset to the domain and showing the benefits of our
+approach
  <p align="center">
 
 </p>
