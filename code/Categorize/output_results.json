@@ -1,0 +1,884 @@
+[
+    [
+        "Question: Can you provide information about individuals born in Berlin before January 1, 1900, including their names, birth dates, death dates, and subjects, ordered by name?",
+        "Answer: The SPARQL response provides information about several individuals who were born in Berlin before January 1, 1900. The response includes their names, birth dates, death dates, and subjects. The results are ordered alphabetically by name.",
+        "Category: History"
+    ],
+    [
+        "question: Category:1955 births",
+        "answer: Category:1955 births",
+        "Category: History",
+        "question: Category:Academics of the University of Southampton",
+        "answer: Category:Academics of the University of Southampton",
+        "Category: Education",
+        "question: Category:Alumni of The Queen's College, Oxford",
+        "answer: Category:Alumni of The Queen's College, Oxford",
+        "Category: Education",
+        "question: Category:English Unitarians",
+        "answer: Category:English Unitarians",
+        "Category: Religion",
+        "question: Category:English atheists",
+        "answer: Category:English atheists",
+        "Category: Religion",
+        "question: Category:English computer scientists",
+        "answer: Category:English computer scientists",
+        "Category: Technology",
+        "question: Category:English expatriates in the United States",
+        "answer: Category:English expatriates in the United States",
+        "Category: Geography",
+        "question: Category:English inventors",
+        "answer: Category:English inventors",
+        "Category: Technology",
+        "question: Category:Fellows of Christ Church, Oxford",
+        "answer: Category:Fellows of Christ Church, Oxford",
+        "Category: Education",
+        "question: Category:Fellows of The Queen's College, Oxford",
+        "answer: Category:Fellows of The Queen's College, Oxford",
+        "Category: Education"
+    ],
+    [
+        "Question: Retrieve the manufacturer, name, and car of luxury vehicles from the DBpedia dataset.",
+        "Answer: The SPARQL response provides information about luxury vehicles from the DBpedia dataset. The response includes the manufacturer's name, the car's name, and a link to the car itself. The response is ordered by the manufacturer's name and then by the car's name.",
+        "Category: Automotive industry."
+    ],
+    [
+        "Question: What are the links from the Wikipedia page of \"Eyes Wide Shut\" to other Wikipedia pages?",
+        "Answer: The response provides a list of links from the Wikipedia page of \"Eyes Wide Shut\" to other Wikipedia pages. The links include topics such as \"Cahiers du Cin\u00e9ma,\" \"Cape Cod,\" \"Cate Blanchett,\" \"Erotic mystery films,\" and more.",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What are the relationships and labels of those relationships between Stanley Kubrick and other objects in the DBpedia database?",
+        "Answer: The response provides a list of relationships and labels between Stanley Kubrick and other objects. ",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: ",
+        "What are some of the links related to Nicole Kidman from the DBpedia dataset?",
+        "Answer: ",
+        "The response provides a list of links from a Wikipage to other Wikipages related to Nicole Kidman.",
+        "Category: ",
+        "Entertainment/Movies/Television"
+    ],
+    [
+        "Question: What are the subjects of the links provided in the response?",
+        "Answer: The response provides a list of links from a Wikipedia page to other Wikipedia pages.",
+        "Category: General Knowledge",
+        "Question: What are the topics or themes of the links provided in the response?",
+        "Answer: The response provides a list of links from a Wikipedia page to other Wikipedia pages.",
+        "Category: General Knowledge"
+    ],
+    [
+        "question: Find all subjects in the DBpedia dataset that are categorized as \"Car manufacturers\". Return any information available about these subjects. Limit the results to 20.",
+        "Category: Data retrieval",
+        "answer: The subjects in the DBpedia dataset that are categorized as \"Car manufacturers\" include \"List of current automobile marques\", \"List of current automotive parts suppliers\", \"MPM Motors\", \"Matford\", \"Willowvale Motor Industries\", \"Chenard-Walcker\", \"Mobilize (marque)\", and \"Infiniti\".",
+        "Category: Automotive industry"
+    ],
+    [
+        "Question: What is the movie \"Eyes Wide Shut\" about?",
+        "Answer: The response provides information about the movie \"Eyes Wide Shut.\" It is a 1999 erotic mystery psychological drama film directed, produced, and co-written by Stanley Kubrick. The film is based on the novella \"Traumnovelle\" (Dream Story) by Arthur Schnitzler, with the setting changed from early twentieth-century Vienna to 1990s New York City.",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What information can be found about Nicole Kidman from the DBpedia database?",
+        "Answer: Nicole Mary Kidman is an American and Australian actress and producer.",
+        "Category: Entertainment"
+    ],
+    [
+        "Question: What are the relationships and objects related to the resource \"Stanley Kubrick: A Life in Pictures\" from the DBpedia dataset?",
+        "Answer: The response provides information about the relationships and objects related to the resource \"Stanley Kubrick: A Life in Pictures\" from the DBpedia dataset. It includes links to other Wikipedia pages, such as \"Rotten Tomatoes,\" \"Anthony Frewin,\" \"Peter Ustinov,\" and more. It also mentions that Anthony Frewin is a producer of the film. Additionally, it includes links to categories like \"2000s American films,\" \"2000s English-language films,\" and others. The response also mentions individuals like Matthew Modine, Malcolm McDowell, Stanley Kubrick, Steven Spielberg, and Tom Cruise, who is both a narrator and an object in some relations. Lastly, it mentions Warner Bros., which is another linked page.",
+        "Category: Film/Entertainment"
+    ],
+    [
+        "Question: What are the relationships that Stanley Kubrick has with other objects in the DBpedia database?",
+        "Answer: Stanley Kubrick was an American film director, producer, screenwriter, and photographer.",
+        "Category: Film and Cinema"
+    ],
+    [
+        "Question: What is the primary topic of the page \"Eyes Wide Shut\" in the DBpedia dataset version 3.8?",
+        "Answer: The response states that the primary topic of the page \"Eyes Wide Shut\" in the DBpedia dataset version 3.8 is a URI link to the Wikipedia page for \"Eyes Wide Shut\".",
+        "Category: Entertainment / Film"
+    ],
+    [
+        "Question: What are the labels of objects that are subjects of the \"Eyes Wide Shut\" resource in the DBpedia 3.8 dataset?",
+        "Answer: The response provides a list of categories related to the movie \"Eyes Wide Shut\" in the DBpedia dataset. These categories include \"Erotic mystery films\", \"Films shot in Suffolk\", \"1990s American films\", \"1990s British films\", and others.",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: Find the subject, relation, and object labels for Arthur Schnitzler in the DBpedia dataset. Filter the results to only include labels in English.",
+        "Answer: The subject label is \"Arthur Schnitzler\". The relation label is \"Link from a Wikipage to another Wikipage\". The object label is \"Vienna\".",
+        "Category: Literature"
+    ],
+    [
+        "Question: What information is available about Tom Cruise in the DBpedia dataset?",
+        "Answer: The response provides information about Tom Cruise's career, personal life, and controversies.",
+        "Category: Entertainment",
+        "Question: What are the relationships and data objects associated with Tom Cruise in the DBpedia dataset?",
+        "Answer: The query retrieves the subject, relationship, relationship label, and data object related to Tom Cruise in DBpedia.",
+        "Category: Information Technology",
+        "Question: What are some notable facts about Tom Cruise's career and personal life?",
+        "Answer: The response includes information about Tom Cruise's awards, film career, marriages, and religious beliefs.",
+        "Category: Entertainment"
+    ],
+    [
+        "Question: Find the URL and label of the birthplace of Tim Berners-Lee from the DBpedia dataset. Only retrieve results in English language and limit the results to 100.",
+        "Answer: The birthplace of Tim Berners-Lee is London, and the URL for this location is http://dbpedia.org/resource/London.",
+        "Category: Geography"
+    ],
+    [
+        "Question: What is the primary topic of the resource \"Stanley Kubrick\" in the DBpedia 3.8 dataset?",
+        "Answer: The primary topic of the resource \"Stanley Kubrick\" is a URI link to the Wikipedia page about Stanley Kubrick.",
+        "Category: Film/Cinema"
+    ],
+    [
+        "Question: What are the labels of objects that are subjects related to Stanley Kubrick in the DBpedia dataset?",
+        "Answer: The response provides a list of categories related to Stanley Kubrick in the DBpedia dataset. These categories include his birth and death years, his profession as a screenwriter and film producer, his membership in various organizations such as the Science Fiction Hall of Fame, and his background as an American emigrant to England. Other categories include his association with special effects and visual effects in films, his education at City College of New York, and his Jewish-American heritage. Additionally, the response includes categories related to locations such as the East Village in Manhattan and the Bronx, as well as photographers from New York City.",
+        "Category: Cultural history, filmography, biography"
+    ],
+    [
+        "Question: Can you retrieve the relation between Arthur Schnitzler and another object, along with the label of that relation and the data object itself?",
+        "Answer: Arthur Schnitzler was an Austrian author and dramatist, born on May 15, 1862, and passed away on October 21, 1931.",
+        "Category: Literature"
+    ],
+    [
+        "Question: What is the general category of the relation \"Link from a Wikipage to another Wikipage\" and object label \"Eyes Wide Shut\" in the DBpedia dataset?",
+        "Answer: The general category is literature/film.",
+        "Category: Literature/Film"
+    ],
+    [
+        "Question: What are the labels of objects that are subjects related to Nicole Kidman in the DBpedia dataset?",
+        "Answer: The response provides a list of categories that are related to Nicole Kidman. These categories include awards she has won, her education, her birth year, her nationality, and various other associations such as being an actress, film producer, audiobook narrator, and ambassador.",
+        "Category: Entertainment and Biography"
+    ],
+    [
+        "Question: What is the object related to the topic \"Nicole Kidman\" in the dataset \"dbpedia3.8\" using the property \"isPrimaryTopicOf\" from the FOAF namespace?",
+        "Answer: The response is a URI link to the Wikipedia page of Nicole Kidman.",
+        "Category: Entertainment & Film"
+    ],
+    [
+        "Question: What are the labels of the objects connected to \"Tom Cruise\" through the property \"subject\" in the DBpedia dataset?",
+        "Answer: The response provides a list of categories related to Tom Cruise, including his birth year, profession, nationality, and other affiliations. These categories include \"Tom Cruise,\" \"People from Glen Ridge, New Jersey,\" \"1962 births,\" \"20th-century American male actors,\" \"21st-century American male actors,\" \"American film producers,\" \"American male film actors,\" \"American people of English descent,\" \"Living people,\" \"American aviators,\" \"American people of German descent,\" and more.",
+        "Category: Entertainment"
+    ],
+    [
+        "Question: Find the object related to the topic \"Tom Cruise\" in the DBpedia dataset.",
+        "Answer: The object related to the topic \"Tom Cruise\" in the DBpedia dataset is the Wikipedia page for Tom Cruise.",
+        "Category: Entertainment"
+    ],
+    [
+        "Question: What are the relations and objects related to \"Dream Story\"?",
+        "Answer: The novella \"Dream Story\" by Arthur Schnitzler explores the psychological changes of Doctor Fridolin over a two-day period after his wife confesses her sexual fantasies involving another man. It takes place in early-20th-century Vienna and includes a masquerade ball, where Fridolin encounters masked individuals engaged in various sexual activities. The best-known film adaptation of the novella is Stanley Kubrick's \"Eyes Wide Shut.\"",
+        "Category: Literature"
+    ],
+    [
+        "Question: What is the relation, label, and data object associated with \"Stanley Kubrick: A Life in Pictures\"?",
+        "Answer: The relation is \"hasDescription\", the label is \"Stanley Kubrick: A Life in Pictures\", and the data object is \"a documentary made in 2001 about the life and work of Stanley Kubrick\".",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What are the labels of objects that are connected to the resource \"Arthur Schnitzler\" through the property \"subject\" in the DBpedia dataset?",
+        "Answer: The response provides a list of categories that are associated with the resource \"Arthur Schnitzler\" in the DBpedia dataset. These categories include \"Austrian medical writers\", \"Austrian people of Hungarian-Jewish descent\", \"20th-century Austrian dramatists and playwrights\", \"People from Leopoldstadt\", \"1862 births\", \"1931 deaths\", \"Jewish dramatists and playwrights\", \"19th-century Austrian dramatists and playwrights\", \"Austrian male dramatists and playwrights\", \"Burials at the Vienna Central Cemetery\", \"Austrian Jews\", and \"Austrian people of Jewish descent\". Additionally, it includes the category called \"Young Vienna\".",
+        "Category: Literature, History, Geography"
+    ],
+    [
+        "Question: What are the labels of objects that are subjects of the resource \"Stanley Kubrick: A Life in Pictures\" in the DBpedia dataset?",
+        "Answer: The response provides a list of categories related to the resource \"Stanley Kubrick: A Life in Pictures\" in the DBpedia dataset. These categories include \"2000s American films,\" \"2000s English-language films,\" \"2001 films,\" \"American documentary films,\" \"Works about Stanley Kubrick,\" \"2001 documentary films,\" and \"Documentary films about film directors and producers.\"",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What is the object that is the primary topic of the resource \"Stanley Kubrick: A Life in Pictures\" in the DBpedia dataset version 3.8?",
+        "Answer: The primary topic of the resource \"Stanley Kubrick: A Life in Pictures\" is a Wikipedia page about Stanley Kubrick.",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What is the object related to the primary topic of Arthur Schnitzler in DBpedia version 3.8?",
+        "Answer: The object related to the primary topic of Arthur Schnitzler in DBpedia version 3.8 is the Wikipedia page for Arthur Schnitzler.",
+        "Category: Literature"
+    ],
+    [
+        "Question: Retrieve the subjects, labels, latitude, and longitude from the DBpedia dataset where the latitude and longitude of the subject are within a range of 0.05 degrees from the Eiffel Tower's latitude and longitude. The labels should be in English. Limit the results to 20.",
+        "Answer: The SPARQL query retrieves the subjects, labels, latitude, and longitude from the DBpedia dataset. The query filters the results to include only those subjects whose latitude and longitude are within a range of 0.05 degrees from the Eiffel Tower's latitude and longitude. Additionally, it specifies that the labels should be in English. The query limits the results to 20 entries. ",
+        "Category: Geography"
+    ],
+    [
+        "Question: Give me the object related to the topic \"Dream Story\" in the DBpedia 3.8 dataset.",
+        "Answer: The object related to the topic \"Dream Story\" in the DBpedia 3.8 dataset is a URI that corresponds to the Wikipedia page for \"Dream Story\".",
+        "Category: Literature"
+    ],
+    [
+        "Question: What are the labels of objects that are subjects of the \"Dream Story\" resource in the DBpedia dataset?",
+        "Answer: The response provides a list of categories that are related to the \"Dream Story\" resource in the DBpedia dataset. These categories include Austrian novels adapted into films, S. Fischer Verlag books, novels by Arthur Schnitzler, 1926 German-language novels, novels adapted into radio programs, Austrian novels adapted into television shows, novels adapted into comics, novels set in Vienna, and psychological novels.",
+        "Category: Literature"
+    ],
+    [
+        "Question: Get the latitude and longitude of the place called \"Maine\" from the database named \"dbpedia3.8\".",
+        "Answer: The latitude of the place called \"Maine\" is 45.0 and the longitude is -69.0.",
+        "Category: Geography"
+    ],
+    [
+        "Question: What information does the query retrieve about the city of Cagliari?",
+        "Answer: The response provides information about the city of Cagliari, including details such as the total area, population, elevation, postal code, region, and country. Additionally, it mentions that Cagliari is the capital of the autonomous region of Sardinia in Italy. The response also provides links to external websites related to Cagliari and its attractions.",
+        "Category: Geography"
+    ],
+    [
+        "Question: Get the description in French of Tim Berners-Lee from the DBpedia dataset.",
+        "Answer: Timothy John Berners-Lee, born on June 8, 1955 in London, is a British computer scientist and the main inventor of the World Wide Web (WWW) while working at CERN in the early 1990s. Since 1994, he has been chairing the World Wide Web Consortium (W3C), an organization he founded. In July 2004, he was knighted by Queen Elizabeth II. He is also the recipient of the Turing Award in 2016. By creating the Web, Tim Berners-Lee invented its three foundational technologies: web addresses in the form of URLs, the HTTP communication protocol, and HTML computer language. He was initially assisted by Belgian engineer and computer scientist Robert Cailliau who co-authored with him a document titled \"WorldWideWeb: Proposal for a Hypertext Project\" which has now become part of history.",
+        "Category: Technology/Computer Science"
+    ],
+    [
+        "Question: What are the names, English descriptions, German descriptions, and professions of German musicians from the DBpedia dataset?",
+        "Answer: The SPARQL response provides information about three German musicians from the DBpedia dataset. ",
+        "1. Maximilian Sch\u00f6nherr is a German journalist, musician, and photographer. He was born on December 27, 1954 in Ha\u00dffurt.",
+        "2. Eku Wand, also known as Uwe Wand, is a German designer and multimedia director. He was born on October 25, 1963 in D\u00fcsseldorf. Eku Wand is a professor of media design and multimedia at the Braunschweig University of Art with a research focus on Interactive Storytelling.",
+        "3. Ill-Young Kim is a German actor, comedian, and musician of Korean descent. He was born on May 13, 1973 in K\u00f6ln (Cologne).",
+        "Category: Music and Entertainment"
+    ],
+    [
+        "Question: What does this query retrieve from the DBpedia database?",
+        "Answer: The query retrieves information about software from the DBpedia database. It selects the subject, label, and abstract of entities that are categorized as \"software\" and have English labels and abstracts. The query returns a maximum of 20 results.",
+        "Category: Technology"
+    ],
+    [
+        "Question: What are the titles of video games that belong to the category \"First-person shooters\" in the DBpedia dataset?",
+        "Answer: The response contains a list of video game titles that belong to the category \"First-person shooters\" in the DBpedia dataset. The titles are ordered alphabetically.",
+        "Category: Entertainment/Media"
+    ],
+    [
+        "Question: What are the predicates, objects, and names of resources from the DBpedia dataset with an optional condition to filter the name in French language?",
+        "Answer: The response provides a list of predicates, objects, and names of various resources from the DBpedia dataset. ",
+        "Category: General Information on Various Resources"
+    ],
+    [
+        "question: Find the URL and label of the birthplace of Paul Dirac from the DBpedia dataset. Only include results in English language and limit the output to 100 results.",
+        "answer: The birthplace of Paul Dirac is Bristol, and the URL for this location in the DBpedia dataset is http://dbpedia.org/resource/Bristol.",
+        "Category: Geography"
+    ],
+    [
+        "Question: What are the predicates, objects, and names related to Paul Dirac in the DBpedia dataset? Include an optional condition to filter the names in English language.",
+        "Answer: The SPARQL response provides information about Paul Dirac from the DBpedia dataset. It includes predicates, objects, and names related to him. The response also includes an optional condition to filter the names in English language.",
+        "Category: Information Retrieval",
+        "Question: What are the significant contributions of Paul Dirac in the field of physics?",
+        "Answer: Paul Dirac made significant contributions in quantum mechanics, quantum field theory, and quantum electrodynamics.",
+        "Category: Physics",
+        "Question: What are some notable awards and honors received by Paul Dirac in his lifetime?",
+        "Answer: Paul Dirac received several prestigious awards and honors, including the Nobel Prize in Physics, the Copley Medal, and the Max Planck Medal.",
+        "Category: Recognition and Awards"
+    ],
+    [
+        "Question: Find the distinct objects and their names that are related to Paul Dirac in the DBpedia dataset. Sort the results by the object names.",
+        "Answer: The distinct objects related to Paul Dirac in the DBpedia dataset are as follows:",
+        "1. Category: 1902 births",
+        "2. Category: 1984 deaths",
+        "3. Category: 20th-century British mathematicians",
+        "4. Category: 20th-century British physicists",
+        "5. Category: Alumni of St John's College, Cambridge",
+        "6. Category: Alumni of the University of Bristol",
+        "7. Category: British Nobel laureates",
+        "8. Category: British people of Swiss descent",
+        "9. Category: English Nobel laureates",
+        "10. Category: English agnostics",
+        "11. Category: English emigrants to the United States",
+        "12. Category: Fellows of the Royal Society",
+        "13. Cateogry: Florida State University faculty",
+        "14. Category: Foreign Members of the USSR Academy of Sciences",
+        "15. Category: Foreign associates of the National Academy of Sciences",
+        "16. Category: Institute for Advanced Study visiting scholars",
+        "17. Category: Lucasian Professors of Mathematics",
+        "18. Category: Mathematical physicists",
+        "19. Category: Members of the Order Merit",
+        "20. Category: Members Pontifical Academy Sciences",
+        "Category: Historical figures, Physics/Mathematics, Academic and Professional Affiliations"
+    ],
+    [
+        "Question: Find the URL and label of the place where Paul Dirac died from the DBpedia dataset. Only include results in English language and limit the results to 100.",
+        "Answer: The place where Paul Dirac died is Tallahassee, Florida. The URL for this place in the DBpedia dataset is http://dbpedia.org/resource/Tallahassee,_Florida.",
+        "Category: Geography"
+    ],
+    [
+        "Question: Get the description of Paul Dirac from the DBpedia dataset, but only in English.",
+        "Answer: Paul Adrien Maurice Dirac OM FRS  20 October 1984) was an English theoretical physicist who is regarded as one of the most significant physicists of the 20th century. He was the Lucasian Professor of Mathematics at the University of Cambridge, a professor of physics at Florida State University and the University of Miami, and a 1933 Nobel Prize recipient. Dirac made fundamental contributions to the early development of both quantum mechanics and quantum electrodynamics. Among other discoveries, he formulated the Dirac equation which describes the behaviour of fermions and predicted the existence of antimatter. Dirac shared the 1933 Nobel Prize in Physics with Erwin Schr\u00f6dinger \"for the discovery of new productive forms of atomic theory\". He also made significant contributions to the reconciliation of general relativity with quantum mechanics. Dirac was regarded by his friends and colleagues as unusual in character. In a 1926 letter to Paul Ehrenfest, Albert Einstein wrote: \"I am toiling over Dirac. This balancing on the dizzying path between genius and madness is awful.\" In another letter concerning Compton effect, he wrote: \"I don't understand details about Dirac at all.\"",
+        "Category: Physics"
+    ],
+    [
+        "Question: Can you provide a list of categories and their labels, along with the number of instances in each category, specifically searching for categories containing the phrase \"german physicists\" with English or no language specified for the label? ",
+        "Answer: The SPARQL response provides information about different categories of German physicists. It includes the category label, such as \"20th-century German physicists\" or \"German women physicists,\" and the number of instances within each category. The response also indicates the total number of instances in each category, with values ranging from 4 to 515.",
+        "Category: Physics"
+    ],
+    [
+        "Question: Who were the individuals born in Berlin before January 1, 1900 and what are their birth and death dates?",
+        "Answer: The response provides a list of individuals who were born in Berlin before January 1, 1900. Each entry includes the person's name, birth date, death date, and a link to their corresponding DBpedia resource. Some of the notable individuals in the list include Carl Boese (born on August 26, 1887 and died on July 6, 1958), Carl Bolle (born on November 21, 1821 and died on February 17, 1909), Carl Friedrich Wilhelm Duncker (born on May 25, 1781 and died on July 15, 1869), Carl Gustav Witt (born on October 29, 1866 and died on January 3, 1946), etc.",
+        "Category: History"
+    ],
+    [
+        "Question: What are the types and classes of instances related to German physicists in DBpedia, as well as the labels of these types and classes, and the number of distinct instances for each type? The results should be ordered by the number of instances in descending order, with a limit of 40 results.",
+        "Answer: The SPARQL response provides information about various categories and their corresponding number of instances related to German physicists in DBpedia.",
+        "Category: Science and Technology"
+    ],
+    [
+        "Question: Give me the names and populations of cities with a population greater than 2,000,000.",
+        "Answer: The cities with a population greater than 2,000,000 are:",
+        "1. Greater Tokyo Area - Population: 38,050,000",
+        "2. Jakarta - Population: 34,540,000",
+        "3. Manila - Population: 24,922,000",
+        "4. Chongqing - Population: 22,251,500",
+        "5. Beijing - Population: 21,893,095",
+        "6. Guangzhou - Population: 16,492,590",
+        "7. Kinshasa - Population: 15,628,000",
+        "8. Istanbul - Population: 15",
+        "Category: Geography"
+    ],
+    [
+        "Question: Find the valid children, their labels, and comments from the DBpedia dataset for German physicists. Only include those with English labels and comments. Limit the results to 1000 and start from the first result.",
+        "Answer: The provided SPARQL-response contains information about German physicists from the DBpedia dataset. Here is a plain-language translation of the response:",
+        "The valid children, their labels, and comments for German physicists are as follows:",
+        "1. Kurt Magnus: Kurt Magnus (September 8, 1912 - December 12, 2003) was a German scientist and expert in applied mechanics, mechatronics, modern navigation technology, and inertial sensors.",
+        "2. Paul Volkmann: Paul Oskar Eduard Volkmann (12 January 1856 - 20 April 1938) was a German physicist, philosopher, and historian of science.",
+        "3. Wilhelm Gottlieb Hankel: Wilhelm Gottlieb Hankel (17 May 1814 \u2013 18 February 1899) was a German physicist known for his work on pyroelectric effects and the rotation of the plane of optical polarization in fluorspar upon application of electricity.",
+        "4. Corinna Salander: Corinna Salander (1967) is a German physicist and engineer who has been serving as director of the German Centre for Rail Traffic Research since 2020.",
+        "5. Erich Rieger: Erich Otto Ernst Rieger (born 1935 in W\u00fcrzburg, Germany) is a German astrophysicist known for his discovery of the period (~154 days) in solar flares.",
+        "6. Stefan H\u00fcfner: Stefan H\u00fcfner (July 9, 1941) is a German physicist and professor at the University of Kaiserslautern, known for his work in the field of atomic physics, particularly on spectroscopy of highly ionized atoms.",
+        "Category: Physics"
+    ],
+    [
+        "Question: What are some examples of historical events that have shaped the modern world?",
+        "Answer: The French Revolution, The Industrial Revolution, The World Wars",
+        "Category: History",
+        "Question: Can you provide some famous mathematical formulas or equations?",
+        "Answer: Pythagorean theorem, Einstein's E=mc^2, Newton's law of universal gravitation",
+        "Category: Mathematics",
+        "Question: Name some famous landmarks or natural features around the world",
+        "Answer: The Grand Canyon, The Great Barrier Reef, The Eiffel Tower",
+        "Category: Geography"
+    ],
+    [
+        "Question: Show me all the distinct objects and their properties that are connected to the resource \"Duck\" in the DBpedia dataset. Only include results where the object is a valid IRI. Limit the results to 100.",
+        "Answer: The response contains a list of distinct objects and their properties connected to the resource \"Duck\" in the DBpedia dataset. The objects are valid IRIs (Internationalized Resource Identifiers). The results are limited to 100.",
+        "Category: Animals",
+        "Question: Show me all the distinct objects and their properties that are connected to the resource \"Duck\" in the DBpedia dataset. Only include results where the object is a valid IRI. Limit the results to 100.",
+        "Answer: The response contains a list of distinct objects and their properties connected to the resource \"Duck\" in the DBpedia dataset. The objects are valid IRIs (Internationalized Resource Identifiers). The results are limited to 100.",
+        "Category: Biology"
+    ],
+    [
+        "Question: What is the latitude and longitude of Ontario from the dataset \"dbpedia3.8\"?",
+        "Answer: The latitude of Ontario is 49.25 and the longitude is -84.5.",
+        "Category: Geography"
+    ],
+    [
+        "Question: What information does this query retrieve from the DBpedia dataset?",
+        "Answer: The query retrieves information about airlines from the DBpedia dataset. It selects the subject, label, and abstract of entities that are classified as airlines. The labels and abstracts must be in English. The query returns a maximum of 20 results.",
+        "Category: Travel or transportation"
+    ],
+    [
+        "Question: Find all the properties and corresponding objects related to the subject \"Duck\" in the DBpedia dataset. Exclude properties like \"depiction\" and include properties like \"label\", \"point\", \"surname\", \"name\", and \"title\". Return the results in a distinct manner and order them by the property.",
+        "Answer: The properties and corresponding objects related to the subject \"Duck\" in the DBpedia dataset, excluding properties like \"depiction\" and including properties like \"label\", \"point\", \"surname\", \"name\", and \"title,\" are as follows:",
+        "1. Property: label",
+        "   Object: Duck",
+        "2. Property: name",
+        "   Object: Duck",
+        "3. Property: point",
+        "   Object: (latitude, longitude)",
+        "4. Property: surname",
+        "   Object: Duck",
+        "5. Property: title",
+        "   Object: Duck",
+        "Category: Zoology"
+    ],
+    [
+        "Question: What are the properties and their corresponding values related to the resource \"Ellen Franz\" in the DBpedia dataset?",
+        "Answer: The response provides a list of properties and their corresponding values related to the resource \"Ellen Franz\" in the DBpedia dataset. These properties include various types such as \"Person,\" \"NaturalPerson,\" \"Animal,\" and more. The response also includes specific categories like \"Women,\" \"Stage Actors,\" \"Actor,\" and others that are associated with Ellen Franz.",
+        "Category: Entertainment"
+    ],
+    [
+        "Question: Find the description of Tim Berners-Lee from the DBpedia dataset, but only in English.",
+        "Answer: Sir Timothy John Berners-Lee, also known as TimBL, is an English computer scientist. He is best known as the inventor of the World Wide Web. Born on June 8, 1955, he is a Professorial Fellow of Computer Science at the University of Oxford and a professor at the Massachusetts Institute of Technology (MIT). Berners-Lee proposed an information management system in March 1989 and implemented the first successful communication between a Hypertext Transfer Protocol (HTTP) client and server via the Internet in mid-November. He is currently the director of the World Wide Web Consortium (W3C) and co-founded the World Wide Web Foundation. Additionally, he holds senior positions at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), including being a director of the Web Science Research Initiative (WSRI) and a member of the advisory board of MIT Center for Collective Intelligence. Berners-Lee has received numerous accolades for his work, including being knighted by Queen Elizabeth II in 2004.",
+        "Category: Computer Science and Technology"
+    ],
+    [
+        "Question: What is the predicate, object, and name of a specific resource (Tim Berners-Lee) from the DBpedia dataset? (Including an optional condition to filter the name by language (English))",
+        "Answer: The response provides information about Tim Berners-Lee, who is classified as a person in the DBpedia ontology. He is also associated with the category \"Foreign associates of the National Academy of Engineering\".",
+        "Category: Information Technology/Tech Industry"
+    ],
+    [
+        "Question: Can you provide all the information from the DBpedia dataset about countries?",
+        "Answer: I'm sorry, but I am unable to directly access the DBpedia dataset. However, you can query the DBpedia SPARQL endpoint yourself to retrieve information about countries.",
+        "Category: Data Retrieval",
+        "Question: What information can be found in the DBpedia dataset about history?",
+        "Answer: The DBpedia dataset contains a wealth of information about historical events, timelines, and significant figures.",
+        "Category: History",
+        "Question: Is there mathematical data available in the DBpedia dataset?",
+        "Answer: While I cannot access the DBpedia dataset directly, it is known to contain information related to mathematics, including mathematical concepts, theories, and prominent mathematicians.",
+        "Category: Mathematics",
+        "Question: Can I find geographical data in the DBpedia dataset?",
+        "Answer: The DBpedia dataset includes extensive geographical information about countries, cities, landmarks, and geographical features.",
+        "Category: Geography"
+    ],
+    [
+        "Question: Find all the properties and corresponding objects related to Wolfgang Amadeus Mozart in the DBpedia dataset. Exclude properties like depiction, and include properties like label, point, surname, name, and title.",
+        "Answer: The properties and corresponding objects related to Wolfgang Amadeus Mozart in the DBpedia dataset, excluding properties like depiction, and including properties like label, point, surname, name, and title are as follows:",
+        "1. Label: Wolfgang Amadeus Mozart",
+        "2. Name: Wolfgang Amadeus Mozart",
+        "3. Point: [latitude, longitude]",
+        "4. Surname: Mozart",
+        "5. Title: Composer",
+        "Category: Music"
+    ],
+    [
+        "Question: What is the latitude and longitude of the location \"Sedgley\" from the dataset \"dbpedia3.8\"?",
+        "Answer: The latitude of the location \"Sedgley\" is 52.54 and the longitude is -2.123.",
+        "Category: Geography"
+    ],
+    [
+        "Question: Find 50 distinct concepts from the DBpedia 3.8 dataset where there is a subject that belongs to that concept.",
+        "Answer: The concepts include FunctionalProperty, Property, Thing, Class, Ontology, ObjectProperty, DatatypeProperty, Organization, Company, Person, Activity, Name, Actor Place Publisher Genre Language Location and Software.",
+        "Category: Information Technology",
+        "Question: Find 50 distinct concepts from the DBpedia 3.8 dataset where there is a subject that belongs to that concept.",
+        "Answer: The concepts include River, Mountain, City, Country, Continent, Island, Lake, Ocean, Sea, Forest, Desert, Park, Peninsula, and Island group.",
+        "Category: Geography",
+        "Question: Find 50 distinct concepts from the DBpedia 3.8 dataset where there is a subject that belongs to that concept.",
+        "Answer: The concepts include Artist, Musician, Composer, Singer, Band, Instrument, Album, Song, Concert, and Opera.",
+        "Category: Music",
+        "Question: Find 50 distinct concepts from the DBpedia 3.8 dataset where there is a subject that belongs to that concept.",
+        "Answer: The concepts include War, Battle, Revolution, Treaty, Conflict, Alliance, and Military unit.",
+        "Category: History",
+        "Question: Find 50 distinct concepts from the DBpedia 3.8 dataset where there is a subject that belongs to that concept.",
+        "Answer: The concepts include Cell, Organ, Disease, Gene, Protein, Organism, Virus, Bacteria, and Evolution.",
+        "Category: Biology"
+    ],
+    [
+        "Question: Can you provide the latitude and longitude of Evergreen Park, Illinois from the DBpedia dataset?",
+        "Answer: The latitude of Evergreen Park, Illinois is 41.72 and the longitude is -87.7025.",
+        "Category: Geography"
+    ],
+    [
+        "Question: The U.S. Securities and Exchange Commission (SEC) has the following properties and corresponding values in the DBpedia dataset. Show me all the properties and their corresponding values for the SEC, excluding certain details like ordering and limits.",
+        "Answer: ",
+        "- Headquarters: Washington, D.C.",
+        "- Jurisdiction: Federal government of the United States",
+        "- Leader: Gary Gensler",
+        "- Location: Washington, D.C.",
+        "- Thumbnail image: [Link to thumbnail image]",
+        "- External links:",
+        "  - [Link to SEC Alumni Association website]",
+        "  - [Link to SEC 2021 Annual Report PDF]",
+        "  - [Link to USAspending.gov page for SEC]",
+        "  - [Link to SEC Historical Society website]",
+        "  - [Link to Federal Register page for SEC]",
+        "  - [Link to official SEC website]",
+        "WikiPage WikiLinks:",
+        "- California",
+        "- Caroline A. Crenshaw",
+        "- Public Company Accounting Oversight Board",
+        "- Rolling Stone magazine",
+        "- Ronald Reagan",
+        "- Sarbanes-Oxley Act",
+        "- List of financial regulatory authorities by country",
+        "- Municipal bond market",
+        "Category: Finance and Regulatory Authorities"
+    ],
+    [
+        "Question: Find the latitude and longitude of Bristol from the DBpedia dataset.",
+        "Answer: The latitude of Bristol is 51.45 and the longitude is -2.58333.",
+        "Category: Geography"
+    ],
+    [
+        "question: Show me all the distinct objects and their properties from the DBpedia dataset version 3.8 where the property is related to the U.S. Securities and Exchange Commission. Only include objects that are valid IRIs (Internationalized Resource Identifiers). Limit the results to 100.",
+        "answer: The provided SPARQL-response contains a list of distinct objects and their properties from the DBpedia dataset version 3.8. These objects are related to the U.S. Securities and Exchange Commission, and only valid IRIs (Internationalized Resource Identifiers) are included. The results are limited to 100 entries.",
+        "Category: Finance"
+    ],
+    [
+        "Question: What are the types and classes of objects related to German nuclear physicists in the DBpedia dataset?",
+        "Answer: The types and classes of objects related to German nuclear physicists in the DBpedia dataset include Fellows of the American Physical Society, 20th-century German physicists, 20th-century American physicists, Nobel laureates in Physics, Members of United States National Academy of Sciences, and others.",
+        "Category: Physics",
+        "Question: What are the labels of these types and classes related to German nuclear physicists in the DBpedia dataset?",
+        "Answer: The labels of these types and classes related to German nuclear physicists in the DBpedia dataset include \"Fellows of the American Physical Society\", \"20th-century German physicists\", \"20th-century American physicists\", \"Nobel laureates in Physics\", \"Members of United States National Academy of Sciences\", and others.",
+        "Category: Physics",
+        "Question: How many distinct instances belong to each type related to German nuclear physicists in the DBpedia dataset?",
+        "Answer: There are 57 instances of Fellows of the American Physical Society, 55 instances of 20th-century German physicists, 45 instances of 20th-century American physicists, 39 instances of Nobel laureates in Physics, 38 instances of Members of United States National Academy of Sciences, and others.",
+        "Category: Physics"
+    ],
+    [
+        "Question: Find the distinct valid children, their labels, and comments from the DBpedia dataset version 3.8. The valid children should have the subject \"German nuclear physicists\". The labels should be in English. Include the comments if available and in English as well. Retrieve a maximum of 1000 results starting from the first one. ",
+        "Answer: The SPARQL response provides information about German nuclear physicists from the DBpedia dataset version 3.8. The response includes distinct valid children, their labels, and comments (if available) in English. The maximum number of results retrieved is 1000, starting from the first one.",
+        "Category: Physics"
+    ],
+    [
+        "Question: This query retrieves information about cities and their corresponding countries from the DBpedia dataset. It selects all data where a city has a homepage and the country is of type \"Country\" and has the city as its capital. The query returns all available information for these matches, with a limit of 20 results.",
+        "Answer: The response provides information about cities and their corresponding countries. It includes the city's name, homepage URL, and the country it belongs to. The query retrieves data for cities that have a homepage and are capitals of their respective countries. The response is limited to 20 results.",
+        "Category: Geography"
+    ],
+    [
+        "Question: Retrieve the subjects, latitude, and longitude of football venues in Germany from the DBpedia dataset.",
+        "Answer: The SPARQL response provides the subjects, latitude, and longitude of various football venues in Germany. The information includes the name of the venue (subject), its latitude, and longitude coordinates.",
+        "Category: Geography"
+    ],
+    [
+        "Question: What are the top categories and their corresponding number of instances from the DBpedia dataset focusing on living people?",
+        "Answer: The SPARQL response provides information about various categories and their corresponding number of instances in the DBpedia dataset.",
+        "Category: General Knowledge/Information Retrieval",
+        "Question: What is the content of the category \"Chinese male film actors\" and how many instances does it have?",
+        "Answer: The category \"Chinese male film actors\" has 305 instances.",
+        "Category: Entertainment/Cinema",
+        "Question: What is the content of the category \"21st-century New Zealand women politicians\" and how many instances does it have?",
+        "Answer: The category \"21st-century New Zealand women politicians\" has 17 instances.",
+        "Category: Politics/Government",
+        "Question: What is the content of the category \"Films about the Federal Bureau of Investigation\" and how many instances does it have?",
+        "Answer: The category \"Films about the Federal Bureau of Investigation\" has 43 instances.",
+        "Category: Entertainment/Cinema",
+        "Question: What is the content of the category \"1991 American television series debuts\" and how many instances does it have?",
+        "Answer: The category \"1991 American television series debuts\" has 20 instances.",
+        "Category: Entertainment/Television"
+    ],
+    [
+        "question: Show me all the resources and their corresponding values from the DBpedia dataset where each resource has an abstract value. Sort the results by resource and value.",
+        "answer: I'm sorry, but I am unable to execute SPARQL queries or access the DBpedia dataset directly. I can only assist with providing information and generating responses based on pre-existing data.",
+        "Category: Data Retrieval",
+        "question: Can you provide information about the history of ancient Rome?",
+        "answer: Ancient Rome was a civilization that began as a small village in the 8th century BC, which eventually grew into an empire lasting from 27 BC to 476 AD. It is known for its advancements in architecture, engineering, and military conquests.",
+        "Category: History",
+        "question: What are some famous mathematical theorems?",
+        "answer: Some famous mathematical theorems include the Pythagorean theorem, the Fundamental Theorem of Calculus, the Prime Number Theorem, and the Pythagorean Triple Theorem.",
+        "Category: Mathematics",
+        "question: Tell me about the geography of the Amazon Rainforest.",
+        "answer: The Amazon Rainforest is a vast region in South America known for its diverse ecosystem, including a wide variety of plant and animal species. It covers an area of approximately 5.5 million square kilometers, spanning across nine countries.",
+        "Category: Geography"
+    ],
+    [
+        "Question: What is the general category assigned to the subjects linked to \"Burton L. King\" in the DBpedia dataset?",
+        "Answer: The general categories assigned to the subjects linked to \"Burton L. King\" are: history, film, and literature.",
+        "Category: History, Film, Literature"
+    ],
+    [
+        "Question: Find the subject, relation, and object labels for the information related to \"The Who\" in the DBpedia dataset.",
+        "Answer: The subject label is \"The Who\". The relation label is \"band member\". The object label is \"Roger Daltrey\".",
+        "Category: Music/Entertainment"
+    ],
+    [
+        "Question: What are all the classes in the dataset and their corresponding labels?",
+        "Answer: The SPARQL response provides a list of classes in the dataset and their corresponding labels in different languages. The classes mentioned are \"Company\" and \"Activity\", with labels such as \"company\", \"Unternehmen\", \"\u4f1a\u793e\", \"\ud68c\uc0ac\", and so on for the class \"Company\". Similarly, for the class \"Activity\", labels like \"activity\", \"Aktivit\u00e4t\", \"\u6d3b\u52d5\" are provided.",
+        "Category: Data Science/Information Technology"
+    ],
+    [
+        "Question: Give me the names of 10 entities from the DBpedia dataset that have \"Johan Christian Fabricius\" as their binomial authority.",
+        "Answer: The entities from the DBpedia dataset that have \"Johan Christian Fabricius\" as their binomial authority are: Amniscus praemorsus, Belemnia eryx, Epagoge grotiana, Epimecis hortaria, Epinotia maculana, Epipsilia grisescens, Epomis croesus, Megabunus diadema, Megacyllene angulata, and Megalocaria dilatata.",
+        "Category: Biology/Taxonomy"
+    ],
+    [
+        "Question: Retrieve the subjects, labels, latitude, and longitude from the DBpedia dataset where the latitude and longitude of the subject are within a certain range of the Brandenburg Gate. Only retrieve subjects with English labels. Limit the results to 20.",
+        "Answer: The SPARQL query retrieves the subjects, labels, latitude, and longitude from the DBpedia dataset. The query filters the results to only include subjects with English labels and limits the results to 20. Additionally, it specifies that the latitude and longitude of the subject should be within a certain range of the Brandenburg Gate.",
+        "Category: Data Retrieval",
+        "Question: Retrieve the subjects, labels, latitude, and longitude from the DBpedia dataset where the latitude and longitude of the subject are within a certain range of the Brandenburg Gate. Only retrieve subjects with English labels. Limit the results to 20.",
+        "Answer: The SPARQL query retrieves the subjects, labels, latitude, and longitude from the DBpedia dataset. The query filters the results to only include subjects with English labels and limits the results to 20. Additionally, it specifies that the latitude and longitude of the subject should be within a certain range of the Brandenburg Gate.",
+        "Category: Geography"
+    ],
+    [
+        "Question: What properties and their corresponding values are related to the Los Angeles Lakers?",
+        "Answer: The response provides a list of types and categories that the Los Angeles Lakers belong to. These include being an organization, a sports team, an agent, a social person, and more. The response also includes various classes and categories related to basketball clubs, teams, and associations.",
+        "Category: Sports and Entertainment"
+    ],
+    [
+        "question: What are the distinct objects and their properties related to Wolfgang Amadeus Mozart from the DBpedia dataset version 3.8?",
+        "answer: The SPARQL response provides a list of distinct objects and their properties related to Wolfgang Amadeus Mozart from the DBpedia dataset version 3.8. The objects are valid IRIs (Internationalized Resource Identifiers) and the results are limited to 100.",
+        "Category: Music",
+        "question: Could you provide a list of objects and their properties related to Wolfgang Amadeus Mozart from the DBpedia dataset version 3.8?",
+        "answer: The SPARQL response provides a list of distinct objects and their properties related to Wolfgang Amadeus Mozart from the DBpedia dataset version 3.8. The objects are valid IRIs (Internationalized Resource Identifiers) and the results are limited to 100.",
+        "Category: Classical Music",
+        "question: What are the distinct objects and their properties related to Wolfgang Amadeus Mozart from the DBpedia dataset version 3.8, limited to 100 results?",
+        "answer: The SPARQL response provides a list of distinct objects and their properties related to Wolfgang Amadeus Mozart from the DBpedia dataset version 3.8. The objects are valid IRIs (Internationalized Resource Identifiers) and the results are limited to 100.",
+        "Category: Composer"
+    ],
+    [
+        "Question: What is the category of the link from a Wikipage to another Wikipage for California State University, Los Angeles related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Education",
+        "Question: What is the category of the link from a Wikipage to another Wikipage for Camille (1936 film) related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Film",
+        "Question: What is the category of the link from a Wikipage to another Wikipage for Candice Bergen related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Entertainment",
+        "Question: What is the category of the link from a Wikipage to another Wikipage for Capucine related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Entertainment",
+        "Question: What is the category of the link from a Wikipage to another Wikipage for Cary Grant related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Entertainment",
+        "Question: What is the category of the link from a Wikipage to another Wikipage for Pygmalion (1938 film) related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Film",
+        "Question: What is the category of the link from a Wikipage to another Wikipage for Robert Mitchum related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Entertainment",
+        "Question: What is the category of the link from a Wikipage to another Wikipage for Robert Montgomery (actor) related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Entertainment",
+        "Question: What is the category of the link from a Wikipage to another Wikipage for Robert Taylor (American actor) related to George Cukor?",
+        "Answer: Link from a Wikipage to another Wikipage",
+        "Category: Entertainment"
+    ],
+    [
+        "Question: Z\u00edskejte abstrakt a popisek v \u010de\u0161tin\u011b pro osobu Jana Amose Komensk\u00e9ho z datasetu DBpedia.",
+        "Answer: Jan Amos Komensk\u00fd, latinsky Iohannes Amos Comenius, n\u011bmecky Johann Amos Comenius (28. b\u0159ezna 1592 jihov\u00fdchodn\u00ed Morava \u2013 15. listopadu 1670 Amsterdam, Spojen\u00e9 provincie nizozemsk\u00e9) byl posledn\u00ed biskup Jednoty bratrsk\u00e9 a jeden z nejv\u011bt\u0161\u00edch \u010desk\u00fdch myslitel\u016f, filozof\u016f a spisovatel\u016f. B\u011bhem sv\u00e9ho \u017eivota si z\u00edskal renom\u00e9 p\u0159edev\u0161\u00edm jako pedagog, resp. teoretik pedagogiky a autor mnoha spis\u016f z tohoto oboru. Byl jedin\u00fdm tv\u016frcem origin\u00e1ln\u00ed, filozoficky ukotven\u00e9 v \u010desk\u00fdch zem\u00edch, zab\u00fdval se v\u0161eobecnou teori\u00ed v\u00fdchovy, didaktikou, vytvo\u0159il speci\u00e1ln\u00ed metodiku a s\u00e1m sepisoval origin\u00e1ln\u00ed u\u010debnice. U\u017e za Komensk\u00e9ho \u017eivota si z\u00edskaly mimo\u0159\u00e1dnou oblibu jeho jazykov\u00e9 p\u0159\u00edru\u010dky Janua linguarum reserata (Dv\u00e9\u0159e jazyk\u016f).",
+        "Category: Education/Pedagogy"
+    ],
+    [
+        "Question: Get the latitude and longitude of the location \"Florida\" from the database \"dbpedia3.8\".",
+        "Answer: The latitude of the location \"Florida\" is 28.0 and the longitude is -82.0.",
+        "Category: Geography"
+    ],
+    [
+        "Question: Give me all the information from the DBpedia dataset version 3.8 about writers who have a sameAs link. Limit the results to 20.",
+        "Answer: The provided SPARQL-response contains information about writers from the DBpedia dataset version 3.8 who have a \"sameAs\" link. The response includes links to external resources related to each writer. The results are limited to 20 entries.",
+        "Category: Literature & Writing"
+    ],
+    [
+        "Question: Can you provide the names of people from the DBpedia dataset?",
+        "Answer: The response provides a list of names from the DBpedia dataset. The names include \"'Alawi dynasty\", \"'Salem's Lot\", \"'s-Hertogenbosch\", \"(G)I-dle\", \".NET\", \".hack\", \"1+1 Media Group\", \"1. FC Bocholt\", \"1. FC Frankfurt\", \"1. FC Heidenheim\", \"1. FC Kaiserslautern\", \"1. FC K\u00f6ln\", \"1. FC Lokomotive Leipzig\",\" 1. FC L\u00fcbars\",\" 1. FC Magdeburg\",\" 1.FC Neuk\u00f6lln\".",
+        "Category: General database information"
+    ],
+    [
+        "Question: What are the titles of 10 films from the DBpedia dataset?",
+        "Answer: The response provides a list of 10 film titles from the DBpedia dataset. The films include \"Ca-bau-kan\", \"Cab Calloway's Jitterbug Party\", \"Cab No. 13\", \"Cab Number 13\", \"Caballerango\", \"Caballo prieto azabache (film)\", \"Cabaret (1927 film)\", \"Cabaret (1972 film)\", \"Cabaret (2019 film)\", and \"Cabaret Balkan\".",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: Can you provide all resources and their corresponding values from the DBpedia dataset, where each resource has a specific type? The results should be ordered by the resource and its corresponding value.",
+        "Answer: The SPARQL response provides a list of resources and their corresponding values from the DBpedia dataset. Each resource has a specific type, which is indicated by the URI value. The results are ordered by the resource and its corresponding value.",
+        "Category: Data and Information Technology"
+    ],
+    [
+        "Question: Retrieve the names, birth dates, death dates, and persons from the DBpedia dataset where the birth place is Berlin and the birth date is before January 1, 1900. Sort the results by name and limit the output to 10 records.",
+        "Answer: I'm sorry, but the provided SPARQL-response does not contain any information about birth places or birth dates. It only includes names, birth dates, death dates, and persons.",
+        "Category: History"
+    ],
+    [
+        "Question: What information does the SPARQL query retrieve from the DBpedia dataset?",
+        "Answer: The SPARQL response provides information about different classes and their superclasses from the DBpedia dataset.",
+        "Category: Data retrieval",
+        "Question: What are some of the classes and their superclasses included in the SPARQL response?",
+        "Answer: The response includes classes such as activity, place, genre, language, department, school, agent, biomolecule, broadcaster, cartoon, case, chemical substance, document gene gridiron football player group legal case mean of transportation motorsport racer.",
+        "Category: DBpedia classes",
+        "Question: How is the SPARQL query filtered for labels?",
+        "Answer: The query filters for English labels or labels with no specified language.",
+        "Category: Data filtering",
+        "Question: What is the limit for the number of results retrieved by the SPARQL query?",
+        "Answer: The query is limited to retrieving a maximum of 1000 results.",
+        "Category: Data limitation"
+    ],
+    [
+        "Question: What is the abstract of the subject \"Civil engineering\" from the DBpedia dataset?",
+        "Answer: Civil engineering is a broad branch of engineering that deals with various topics such as design, construction, and maintenance of public works and structures, urban planning, transportation, land, hydraulics, hydrology, coasts and ports, and water purification.",
+        "Category: Engineering",
+        "Question: What is the definition of civil engineering in Czech and Arabic?",
+        "Answer: In Czech: Stavebnictv\u00ed je specializovan\u00e9 hospod\u00e1\u0159sk\u00e9 odv\u011btv\u00ed zab\u00fdvaj\u00edc\u00ed se stavbami.",
+        "In Arabic: \u0627\u0644\u0647\u0646\u062f\u0633\u0629 \u0627\u0644\u0645\u062f\u0646\u064a\u0629 \u062a\u0639\u062a\u0628\u0631 \u0641\u0631\u0639\u064b\u0627 \u0645\u0646",
+        "Category: Language and Linguistics"
+    ],
+    [
+        "Question: What is the primary topic of \"The Who\" in the DBpedia 3.8 dataset?",
+        "Answer: The response indicates that the primary topic of \"The Who\" in the DBpedia 3.8 dataset is a URI link to the Wikipedia page for \"The Who\".",
+        "Category: Music"
+    ],
+    [
+        "Question: What are the relationships and properties of George Cukor in the DBpedia database?",
+        "Answer: The response provides information about George Dewey Cukor and his career as an American film director and producer.",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What are the labels of objects that are subjects of the resource \"Burton L. King\" in the DBpedia dataset?",
+        "Answer: The response provides a list of categories that are associated with the resource \"Burton L. King\" in the DBpedia dataset. These categories include \"1877 births\", \"20th-century American male actors\", \"American male film actors\", \"Articles containing video clips\", \"1944 deaths\", and \"American film directors\".",
+        "Category: Entertainment/Literature"
+    ],
+    [
+        "Question: What is the primary topic of \"The Who\" in the DBpedia 3.8 dataset?",
+        "Answer: The primary topic of \"The Who\" in the DBpedia 3.8 dataset is a URI link to the Wikipedia page for \"The Who\".",
+        "Category: Music/Entertainment"
+    ],
+    [
+        "Question: What are the relationships and properties of George Cukor in the DBpedia database?",
+        "Answer: The response provides information about George Dewey Cukor. He was an American film director and producer known for his work in comedies and literary adaptations. He had a successful career in the entertainment industry, directing major films and winning an Academy Award for Best Director.",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What are the labels of objects that are subjects of the resource \"Burton L. King\" in the DBpedia dataset?",
+        "Answer: The response provides a list of categories that are associated with the resource \"Burton L. King\" in the DBpedia dataset. These categories include \"1877 births\", \"20th-century American male actors\", \"American male film actors\", \"Articles containing video clips\", \"1944 deaths\", and \"American film directors\".",
+        "Category: Entertainment & Media"
+    ],
+    [
+        "Question: What are the labels of objects that are subjects of the resource \"The Who\" in the DBpedia dataset?",
+        "Answer: The response provides a list of categories that are associated with the musical group \"The Who\" in the DBpedia dataset. These categories include \"Musical groups reestablished in 1989,\" \"English hard rock musical groups,\" \"English power pop groups,\" and others.",
+        "Category: Music"
+    ],
+    [
+        "Question: What is the object related to the resource \"Burton L. King\" in the \"isPrimaryTopicOf\" property from the DBpedia version 3.8 dataset?",
+        "Answer: The response states that the object related to the resource \"Burton L. King\" is a URI pointing to the Wikipedia page about him.",
+        "Category: History"
+    ],
+    [
+        "Question: What labels are associated with \"George Cukor\" in the DBpedia dataset?",
+        "Answer: The response provides a list of categories that are associated with \"George Cukor\" in the DBpedia dataset.",
+        "Category: Film and Entertainment",
+        "Question: What categories are connected to \"George Cukor\" through the \"subject\" property in the DBpedia dataset?",
+        "Answer: The response provides a list of categories that are associated with \"George Cukor\" in the DBpedia dataset.",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What is the object related to the topic \"George Cukor\" in the dataset \"dbpedia3.8\" using the property \"isPrimaryTopicOf\"?",
+        "Answer: The object related to the topic \"George Cukor\" in the dataset \"dbpedia3.8\" using the property \"isPrimaryTopicOf\" is a URI link to George Cukor's Wikipedia page.",
+        "Category: Entertainment"
+    ],
+    [
+        "Question: What are the relationships and corresponding data objects related to \"Burton L. King\" in English?",
+        "Answer: Burton L. King was an American film actor and director. One of his well-known productions was The Lost Battalion (1919). Additionally, it mentions that he had an alias, which is \"Burton King\".",
+        "Category: Film and Entertainment"
+    ],
+    [
+        "Question: What are the relationships between \"The Who\" and other objects, along with their labels, that are of type \"DatatypeProperty\" and in English?",
+        "Answer: The response provides information about \"The Who\", an English rock band formed in London in 1964. The band's classic lineup consisted of lead singer Roger Daltrey, guitarist and singer Pete Townshend, bass guitarist and singer John Entwistle, and drummer Keith Moon. They are considered one of the most influential rock bands of the 20th century and have sold over 100 million records worldwide. The Who made significant contributions to rock music, including the development of the Marshall Stack, large PA systems, synthesizers, influential playing styles by Entwistle and Moon, Townshend's feedback and power chord guitar technique, as well as the creation of rock operas. They have influenced many hard rock, punk rock, power pop, and mod bands. The Who's songs are still regularly played today. In 1990, they were inducted into the Rock and Roll Hall of Fame. The band originated from a previous group called \"The Detours\" before establishing themselves as part of the pop art and mod movements by incorporating auto-destructive art into their performances through destroying guitars and drums on stage. Their first single as \"The Who\", titled \"I Can't Explain\" (1965), reached the top ten charts in the UK followed by several hit singles such as \"My Generation\" (1965), \"Substitute\" (1966), and \"Happy Jack\" (1966).",
+        "Category: Music"
+    ],
+    [
+        "Question: Give me all the resources from the DBpedia 3.8 dataset that are classified as a person according to the RDF type property.",
+        "Answer: The resources from the DBpedia 3.8 dataset that are classified as a person according to the RDF type property are: (list of people)",
+        "Category: People / Biography"
+    ],
+    [
+        "Question: Count the number of distinct entities (?a) from the DBpedia dataset (version 3.8) that are classified as \"Settlement\" and have a property \"country\" (?con).",
+        "Answer: The number of distinct entities from the DBpedia dataset (version 3.8) that are classified as \"Settlement\" and have a property \"country\" is 487,316.",
+        "Category: Geography"
+    ],
+    [
+        "Question: Show me all the distinct properties and objects related to the resource \"Bogot\u00e1\" in the DBpedia dataset, excluding the property \"depiction\". Also include properties such as \"label\", \"point\", \"surname\", \"name\", and \"title\". Sort the results by property. ",
+        "Answer: ",
+        "The distinct properties and objects related to the resource \"Bogot\u00e1\" in the DBpedia dataset, excluding the property \"depiction\", and including properties such as \"label\", \"point\", \"surname\", \"name\", and \"title\" are as follows: ",
+        "1. Property: label, Object: Bogot\u00e1",
+        "2. Property: name, Object: Bogot\u00e1",
+        "3. Property: point, Object: http://www.georss.org/georss/point#4.60971,-74.08175",
+        "4. Property: surname, Object: Bogota",
+        "5. Property: title, Object: Bogota",
+        "Category: Geography"
+    ],
+    [
+        "Question: Give me the parameter and label of countries from the DBpedia dataset, where the label is in English and sorted in descending order based on the parameter value. Limit the results to 20.",
+        "Answer: The countries from the DBpedia dataset, where the label is in English and sorted in descending order based on the parameter value, are as follows:",
+        "1. Asia Cooperation Dialogue - 4,317,290,284",
+        "2. East Turkestan - 2,487,000,030",
+        "3. Commonwealth of Nations - 2,418,964,000",
+        "4. Akhand Bharat - 1,933,721,044",
+        "5. Organisation of Islamic Cooperation - 1,810,000,000",
+        "6. Under2 Coalition - 1,750,000,000",
+        "7. Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation - 1,723,388,648",
+        "8. South Asian Association for Regional Cooperation - 1,713,870,000",
+        "9. BBIN (Bangladesh-Bhutan-India-Nepal) Initiative - 1,465,236",
+        "10. China - 1,410,539,758",
+        "Category: Geography"
+    ],
+    [
+        "Question: Give me the names of all the people in the DBpedia dataset.",
+        "Answer: The names of all the people in the DBpedia dataset are: 'Alawi dynasty', 'Salem's Lot', 's-Hertogenbosch', '(G)I-dle', '.NET', '.hack', '1+1 Media Group', '1. FC Bocholt', '1. FC Frankfurt', '1. FC Heidenheim', '1. FC Kaiserslautern', '1. FC K\u00f6ln', '1. FC Lokomotive Leipzig', '1. FC L\u00fcbars', '1. FC Magdeburg', '1. FC Neuk\u00f6lln'.",
+        "Category: Various, including sports, entertainment, and technology."
+    ],
+    [
+        "Question: What are the properties and values associated with the resource \"Ellen Franz\" in the DBpedia dataset?",
+        "Answer: The provided SPARQL response indicates that the resource \"Ellen Franz\" has various types and properties associated with it. These include being a person, a natural person, an actor, an actress, an adult, a communicator, and an entertainer. Additionally, \"Ellen Franz\" is classified under categories such as women and stage actors.",
+        "Category: Entertainment"
+    ],
+    [
+        "Question: Find all distinct properties that have a domain of \"Person\" in the DBpedia dataset.",
+        "Answer: The distinct properties that have a domain of \"Person\" in the DBpedia dataset are: restingPlacePosition, board, careerStation, citizenship, college, militaryService, notableIdea, partner, personFunction, profession, relation, school, agency, significantProject, bodyDiscovered, electionDate, allegiance, activeYears, opponent, placeOfBurial.",
+        "Category: Personal Information"
+    ],
+    [
+        "Question: What is the purpose and jurisdiction of the U.S. Securities and Exchange Commission (SEC)?",
+        "Answer: The SEC's primary purpose is to enforce laws against market manipulation and ensure fair practices in the stock market. It has jurisdiction over financial securities and regulates various acts.",
+        "Category: Law and Government"
+    ],
+    [
+        "Question: What are some examples of music groups that are classified as instances of the \"MusicGroup\" class in the DBpedia dataset?",
+        "Answer: Cab Calloway, Cab Kaye, Caballeros de la Quema, Cabbage (band), Cabin (band), Cabin Crew, Cable Ties (band), Cabum, Cachao, Cachorro Grande, Cachorro L\u00f3pez, Cactus (American band), Cactus (Indian band), Cactus Child, Cadalack Ron, Cadaver (band), Cadaveria, Cade (musician), Cade Foehner, and Cadence Weapon.",
+        "Category: Music"
+    ],
+    [
+        "Question: What are all the properties of animals in the DBpedia dataset?",
+        "Answer: The SPARQL response provides a list of properties related to animals in the DBpedia dataset. These properties include types, labels, comments, differences, references, names, nicknames, homepages, depictions, given names, birthplaces (ontology and property), deathplaces (ontology and property), death dates (ontology and property), subject terms, wiki page IDs, and wiki page revision IDs.",
+        "Category: Biology/Zoology"
+    ],
+    [
+        "Question: What are the names of cocktails with whisky in the DBpedia dataset? It selects the variable ?name and filters the results to only include names in English.",
+        "Answer: The response provides a list of cocktail names that contain whisky. The names are in English and have been retrieved from the DBpedia dataset.",
+        "Category: Food and Beverages"
+    ],
+    [
+        "Question: Give me all the information from the DBpedia dataset version 3.8 about subjects that are classified as programmers in the YAGO ontology.",
+        "Answer: Based on the provided SPARQL-response, there are two subjects that are classified as programmers in the YAGO ontology. The first subject is Carol Shaw, a video game designer. The second subject is Carsten Haitzler.",
+        "Category: Information Technology"
+    ],
+    [
+        "Question: Retrieve the names of films, birth dates, and names of actors from the DBpedia dataset version 3.8. The query selects films with their names using the property \"foaf:name\" and actors using the property \"dbo:starring\". Additionally, it selects actors' birth dates and names using the properties \"dbo:birthDate\" and \"foaf:name\". The query filters the results to only include actors born after January 1, 1970.",
+        "Answer: The response provides information about films, actors, and their birth dates from the DBpedia dataset version 3.8. It includes the names of the films, birth dates of the actors, and their names. The query specifically selects films using the property \"foaf:name\" and actors using the property \"dbo:starring\". It also retrieves additional details such as birth dates using \"dbo:birthDate\" and names using \"foaf:name\". The results are filtered to only include actors who were born after January 1, 1970.",
+        "Category: Entertaiment"
+    ],
+    [
+        "Question: Show me all the distinct triples from the linkset \"yago_freebase_type_correlation\" in the DBpedia dataset version 3.8, where there is a subject, predicate, and object. Limit the results to 50 triples.",
+        "Answer: I'm sorry, but I cannot directly access external datasets or perform SPARQL queries. However, I can help you understand the provided SPARQL response if you have any questions about it.",
+        "Category: Data retrieval",
+        "Question: What is the capital city of France?",
+        "Answer: The capital city of France is Paris.",
+        "Category: Geography ",
+        "Question: How do you calculate the area of a circle?",
+        "Answer: The area of a circle can be calculated using the formula A = \u03c0r^2, where A is the area and r is the radius of the circle.",
+        "Category: Mathematics"
+    ],
+    [
+        "question: What classes of entities are included in the SPARQL response from the query?",
+        "answer: The SPARQL response includes subclasses such as Region, Island, Continent, Settlement, Country, Agglomeration, Community, GatedCommunity, Intercommunality, Locality, State, Street, and Territory.",
+        "Category: Geography",
+        "question: What domain information for properties is included in the SPARQL response from the query?",
+        "answer: The SPARQL response includes domain information for properties like parish, unitaryAuthority, largestSettlement, councilArea, arrondissement, leaderName, and leaderParty.",
+        "Category: Politics and government"
+    ],
+    [
+        "Question: What is the comment of the resource \"Analysis\" from the DBpedia dataset in English?",
+        "Answer: The response provides information about analysis, which is the process of breaking a complex topic or substance into smaller parts to understand it better. This technique has been used in mathematics and logic since ancient times, even before Aristotle. The word \"analysis\" comes from the Ancient Greek word \"\u1f00\u03bd\u03ac\u03bb\u03c5\u03c3\u03b9\u03c2,\" which means \"a breaking-up\" or \"an untying.\" The plural form of the word is \"analyses.\"",
+        "Category: Mathematics"
+    ],
+    [
+        "Question: Give me the comment for the resource \"Broadband\" in English from the DBpedia version 3.8.",
+        "Answer: The comment for the resource \"Broadband\" in English from DBpedia version 3.8 is: \"In telecommunications, broadband is wide bandwidth data transmission which transports multiple signals at a wide range of frequencies and Internet traffic types, that enables messages to be sent simultaneously, used in fast internet connections. The medium can be coaxial cable, optical fiber, wireless Internet (radio), twisted pair or satellite. In the context of Internet access, broadband is used to mean any high-speed Internet access that is always on and faster than dial-up access over traditional analog or ISDN PSTN services.\"",
+        "Category: Telecommunications/Internet technology"
+    ],
+    [
+        "Question: What information does this SPARQL query retrieve about properties in the DBpedia dataset?",
+        "Answer: The SPARQL response provides information about properties' domain, range, and label. It filters the labels to only include those in English or without a specified language. The query limits the results to 1000.",
+        "Category: Data Retrieval",
+        "Question: How does the query filter the labels of properties in the DBpedia dataset?",
+        "Answer: The query filters the labels to only include those in English or without a specified language.",
+        "Category: Data Filtering",
+        "Question: What is the limit set for the results of the SPARQL query?",
+        "Answer: The query limits the results to 1000.",
+        "Category: SPARQL Query Limits"
+    ],
+    [
+        "Question: Can you provide a list of distinct properties from the DBpedia dataset that are of type \"DatatypeProperty\" according to the RDF schema? The query should also retrieve the domain, range, and label of each property, with the label in English or having no language specified, and return a maximum of 1000 results.",
+        "Answer: The SPARQL response provides a list of distinct properties from the DBpedia dataset. These properties are of type \"DatatypeProperty\" according to the RDF schema. Each property is described by its domain, range, and label in English or with no specified language. The response will contain a maximum of 1000 results.",
+        "Category: Database/Tech/Data Modeling"
+    ],
+    [
+        "question: Get the comment about Black people from the DBpedia dataset in English.",
+        "answer: The comment about Black people from the DBpedia dataset in English is: \"Black is a racialized classification of people, usually a political and skin color-based category for specific populations with a mid to dark brown complexion. Not all people considered 'black' have dark skin; in certain countries, often in socially based systems of racial classification in the Western world, the term 'black' is used to describe persons who are perceived as dark-skinned compared to other populations. It is most commonly used for people of sub-Saharan African ancestry and the indigenous peoples of Oceania, though it has been applied in many contexts to other groups, and is no indicator of any close ancestral relationship whatsoever. Indigenous African societies do not use the term black as a racial identity outside of influences brought by Western cultures. The term 'black'.\"",
+        "Category: Sociology / Anthropology"
+    ],
+    [
+        "Question: What information does the query provide about Alyssa Milano?",
+        "Answer: The response provides information about Alyssa Milano, an American actress, voice actress, activist, and former singer. She was born on December 19, 1972, in New York City. Alyssa Milano made her debut as a child actress and gained fame for her roles in the TV series \"Melrose Place\" and \"Charmed.\" She also pursued a career as a singer in the 1990s, releasing four studio albums and achieving success in Europe and Japan. The response includes additional details such as her active years starting from 1984 and her association with the Democratic Party (United States).",
+        "Category: Entertainment & Arts"
+    ],
+    [
+        "Question: Get the comment of the computer scientist from the DBpedia database in English.",
+        "Answer: A computer scientist is a person who is trained in the academic study of computer science. Computer scientists typically work on the theoretical side of computation, as opposed to the hardware side on which computer engineers mainly focus (although there is overlap). Although computer scientists can also focus their work and research on specific areas (such as algorithm and data structure development and design, software engineering, information theory, database theory, computational complexity theory, numerical analysis, programming language theory, computer graphics, and computer vision), their foundation is the theoretical study of computing from which these other fields derive.",
+        "Category: Computer Science"
+    ],
+    [
+        "Question: Retrieve the image and summary of Ariel Rot from the DBpedia dataset version 3.8, where the summary is in Spanish.",
+        "Answer: Ariel Eduardo Rotenberg Gutkin (born April 19, 1960 in Buenos Aires) is an Argentine guitarist, singer, songwriter, and music producer of rock and blues. He currently resides in Spain. He was a member of the band Tequila and later joined Los Rodr\u00edguez. After the breakup of Los Rodr\u00edguez, he pursued a solo career. He has been in a stable relationship for over 20 years and is the father of two children: Mateo (born in 2002) and Valentina (born in 2005). The image associated with Ariel Rot can be found at this link: [http://commons.wikimedia.org/wiki/Special:FilePath/Ariel_Rot_2007.05.17_009.jpg?width=300].",
+        "Category: Music."
+    ]
+]
