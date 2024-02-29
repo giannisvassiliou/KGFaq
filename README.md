@@ -14,7 +14,7 @@ approach
 
 </p>
 <p align="center">
-  <img src="https://github.com/giannisvassiliou/KGFaq/ulysses.png"/>
+  <img src="[https://github.com/giannisvassiliou/KGFaq/ulysses.png](https://github.com/giannisvassiliou/KGFaq/blob/main/ulisses.png)"/>
 </p>
 
 ## LFS Data Creator
