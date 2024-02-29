@@ -17,7 +17,7 @@ approach
   <img src="https://github.com/giannisvassiliou/KGFaq/blob/main/ulisses.png"/>
 </p>
 
-## ULYSSES PARSER
+## ULYSSES Parser
 
 Firstly we need to create the data by accessing the endpoint of the desired dataset. The parserIT.py script has the following syntax
 <br>
@@ -50,7 +50,7 @@ urlendpoint: a valid url endpoint ( e.g.  https://yago-knowledge.org/sparql/quer
 <br> These files can be used directly from the LFS Evaluator
 
 <br> <br>
-## ULYSSES LLM quering
+## ULYSSES LLM Query
 
 You need to provide two INPUT files (<b> orig_summary_filename</b> and <b> queries_for_summary</b> ) and one filename for OUTPUT (the actual <b> .nt LFS Summary </b>) ,  finally  the <b> address_of_endpoint </b>{OPTIONAL}
 <br><b> <br>
