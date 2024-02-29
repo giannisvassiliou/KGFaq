@@ -5,7 +5,7 @@ import openpyxl
 
 
 def read_queries_responses_from_folder(folder_path):
-    queries_file_path = os.path.join(folder_path, 'Results.xlsx')
+    queries_file_path = os.path.join(folder_path, './Results.xlsx')
     # Define variable to load the dataframe
     dataframe = openpyxl.load_workbook(queries_file_path)
     
@@ -29,11 +29,13 @@ def read_queries_responses_from_folder(folder_path):
     dataframe.close()
     responses = {}
 
-    for file_name in os.listdir(folder_path):
+    for file_name in os.listdir(folder_path+'./6_response_folder/'):
+        print(folder_path+'./response_folder/')
         if file_name.endswith(".json"):
+            print("ff "+file_name)
             # Extract unique code from the file name
             unique_code = file_name.replace("query_response_", "").replace(".json", "")
-            file_path = os.path.join(folder_path, file_name)
+            file_path = os.path.join(folder_path, './6_response_folder/'+file_name)
             print(f"FilePAth {file_path}")
             with open(file_path, 'r',encoding='utf-8') as file:
                 data = json.load(file)
@@ -46,7 +48,7 @@ def read_queries_responses_from_folder(folder_path):
                 else:
                     print(f"Warning: 'results' or 'bindings' not found in {file_path}")
     return query_dict,responses
-folder_path = r'C:\Users\gpronoitis\Downloads\JSON_FILES'
+folder_path = r''
 output_file_path = os.path.join(folder_path, 'output_results_5.json')
 query_dict,responses = read_queries_responses_from_folder(folder_path)
 output_results = {}
@@ -163,7 +165,6 @@ print('End of Program')
 #         queries_dict[current_unique_code] = ''.join(current_sparql_query).strip()
 
 #     # Rest of the code...
-
 
 
 
