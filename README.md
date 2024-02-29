@@ -19,9 +19,8 @@ approach
 
 ## ULYSSES Parser
 
-Firstly we need to create the data by accessing the endpoint of the desired dataset. The parserIT.py script has the following syntax
-<br>
-<br><b> USAGE:  parserIT queryfile {flag 1/0 m(ost) f(requent) or non mf}  {basefilename} {limit} {urlendpoint} </b>
+<br> You can use the script in this folder, to query the SPARQL ENDPOINT, with the questions from the log
+<br><b> An Excel file will be created with various statistics and the most frequent queries. A folder "response_json" will be also created, containing the results of the most frequent queries.
 <br>
 <br>
 <b>
