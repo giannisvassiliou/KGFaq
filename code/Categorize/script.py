@@ -5,7 +5,7 @@ import json
 import time
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'YOUR KEY'
 
 def categorize_objects(data, output_file):
     categorized_data = []
