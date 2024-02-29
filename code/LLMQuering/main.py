@@ -54,9 +54,8 @@ query_dict,responses = read_queries_responses_from_folder(folder_path)
 output_results = {}
 
 client = OpenAI(
-   #api_key="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"
-   #api_key = "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"
-    api_key="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"
+
+    api_key="USE YOUR OWN API KEY"
 )
 
 # Convert keys in query_dict to strings
