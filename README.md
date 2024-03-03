@@ -23,10 +23,10 @@ approach
 </b>
 <br>
 <br>
-The script <b>parse_tsv_file.py </b> will USE THE SPARQL QUERY LOG (FROM DATA FOLDER) to query the Endpoint, and collect the answers/results
+The script <b>parse_tsv_file.py </b> will USE THE SPARQL QUERY LOG (FROM DATA FOLDER) to query the Endpoint, and collect the answers/results .
 <br>
 <br>
- Will create:
+ It will create:
 <br>
 <br>
  <ul>
@@ -57,7 +57,7 @@ plain English question/answer pairs.
            and via the OpenAI API, translates the queries/responses to plain English questions/answers pairs </Li>
            <br>
            
-   INPUTS:
+   Inputs:
    <UL>
 <li>Response_folder: The folder containing the ENDPOINT's responses to the queries in json format, created by parser</Li>
 <li>Results.xlsx: The actual SPARQL queries (most frequent used), created by parser</li>
@@ -71,5 +71,5 @@ plain English question/answer pairs.
 <UL>
  <li>
  You have to use <b> YOUR OWN </b> OpenAI secret key, in the appropriate spots in the code  .</li>
-<li> Same code with minor changes, was used for leveraging Google's <b> GEMINI </b>in the procedure .</li>
+<li> The same code with minor changes, was used for leveraging Google's <b> GEMINI </b>in the procedure .</li>
 </UL>
