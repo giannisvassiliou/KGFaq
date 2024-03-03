@@ -45,7 +45,7 @@ queries in the DBpedia endpoint(db.xlsx) - (contains the most frequent queries ,
 ## ULYSSES LLM Query
 </b>
 <b>
-You can use the python script in this folder, to send to <b>ChatGPT</b> the most frequent queries, along with their output (fromt the Endpoint) as collected from the previous (parser) script, to create the 
+You can use the python script in this folder, to send to <b>ChatGPT</b> the most frequent queries, along with their output  as collected from the previous (parser) script, to create the 
 plain English question/answer pairs.
  
 </b>
