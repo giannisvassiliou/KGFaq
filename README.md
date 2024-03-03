@@ -48,7 +48,7 @@ plain English question/answer pairs.
 <br>
 <UL>
 
-<Li> <b> main.py </b>: reads the sparql queries in Results.xlsx and their responds in response_folder (contains json style replies of the SPARQL queries from Endpoint-done by Parser)
+<Li> <b> main.py </b>: reads the SPARQL queries in Results.xlsx and their responds in response_folder (contains json style replies of the SPARQL queries from Endpoint-done by Parser)
            and via the OPENAI API, translates the queries/responses to plain English questions/answers pairs </Li>
    INPUTS:
    <UL>
@@ -60,4 +60,5 @@ plain English question/answer pairs.
 
 
 <br>
-
+<br>
+<b> You have to use your OWN OPENAI secret key, in the appropriate spots in the code </b>
