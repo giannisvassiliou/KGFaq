@@ -4,9 +4,9 @@ script.py - The main file that sends a query to the API, to define a category fo
 	    It contains local paths, and needs to be changed.
 
 	NEEDS:
-	input_results.json
+		input_results.json - the file that contains the 
         CREATES:
-	output_results.json - The script.py output. A json file that contains each sparqls question-answer-category.
+		output_results.json - The script.py output. A json file that contains each sparqls question-answer-category.
 
 sort.py -  The file that sorts the APIs response, by category. Returns a txt file with the sorted data.
 
