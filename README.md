@@ -57,7 +57,7 @@ plain English question/answer pairs.
            
    INPUTS:
    <UL>
-<li>Response_folder: The folder containing the ENDPOINT's response to the queries in json format, created by parser</Li>
+<li>Response_folder: The folder containing the ENDPOINT's responses to the queries in json format, created by parser</Li>
 <li>Results.xlsx: The actual SPARQL queries (most frequent used), created by parser</li>
 
    </UL>
