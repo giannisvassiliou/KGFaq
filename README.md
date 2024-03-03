@@ -71,5 +71,5 @@ plain English question/answer pairs.
 <UL>
  <li>
  You have to use <b> YOUR OWN </b> OpenAI secret key, in the appropriate spots in the code  .</li>
-<li> The same code with minor changes, was used for leveraging Google's <b> GEMINI </b>in the procedure .</li>
+<li> The same code with minor changes, was used for leveraging  <b> Google's GEMINI </b>in the procedure .</li>
 </UL>
