@@ -22,7 +22,7 @@ approach
 <br> You can use the script in this folder, to query the SPARQL ENDPOINT, with the most frequent SPARQL queries from the log provided in the data folder.
 </b>
 
-The script parse_tsv_file.py  will USE THE SPARQL QUERY LOG (FROM DATA FOLDER) to query the Endpoint, and collect the answers/results
+The script <b>parse_tsv_file.py </b> will USE THE SPARQL QUERY LOG (FROM DATA FOLDER) to query the Endpoint, and collect the answers/results
 <br>
  Will create:
 <br>
