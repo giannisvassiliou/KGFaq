@@ -68,6 +68,6 @@ plain English question/answer pairs.
 <br>
 <UL>
  <li>
-<b> You have to use YOUR OWN OpenAI secret key, in the appropriate spots in the code </b></li>
-<li> Same code with minor changes, was used for leveraging GEMINI, in the procedure</li>
+<b> You have to use YOUR OWN OpenAI secret key, in the appropriate spots in the code  .</b></li>
+<li> Same code with minor changes, was used for leveraging Google's GEMINI in the procedure .</li>
 </UL>
