@@ -19,7 +19,7 @@ approach
 
 ## ULYSSES Parser
 <b>
-<br> You can use the script in this folder, to query the SPARQL ENDPOINT, with the most frequent SPARQL queries from the log provided in the data folder.
+<br> You can use the Python script in this folder, to query the SPARQL ENDPOINT, with the most frequent SPARQL queries from the log provided in the data folder.
 </b>
 <br>
 <br>
@@ -45,7 +45,7 @@ queries in the DBpedia endpoint(db.xlsx) - (contains the most frequent queries ,
 ## ULYSSES LLM Query
 </b>
 <b>
-You can use the python script in this folder, to send to <b>ChatGPT</b> the most frequent queries, along with their output  as collected from the previous (parser) script, to create the 
+You can use the Python script in this folder, to send to <b>ChatGPT</b> the most frequent queries, along with their output  as collected from the previous (parser) script, to create the 
 plain English question/answer pairs.
  
 </b>
