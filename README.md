@@ -52,7 +52,7 @@ plain English question/answer pairs.
            and via the OPENAI API, translates the queries/responses to plain English questions/answers pairs </Li>
    INPUTS:
    <UL>
-<li>input_results.json: The ENDPOINT's response to the queries  created by parser</Li>
+<li>Response_foler: The foler containing the ENDPOINT's response to the queries in json format, created by parser</Li>
 <li>Results.xlsx: The actual SPARQL queries (most frequent used), created by parser</li>
 
    </UL>
