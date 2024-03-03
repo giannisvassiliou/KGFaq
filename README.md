@@ -32,6 +32,8 @@ approach
 You can use the python script in this folder, to send to ChatGPT the most frequent queries, along with their output (fromt the Endpoint) as collected from the previous (parser) script, to create the 
 plain English question/answer pairs.
 </b>
+<br>
+<br>
 <UL>
 
 <Li> main.py : reads the sparql queries in Results.xlsx and their responds in response_folder (contains json style replies of the SPARQL queries from Endpoint-done by Parser)
