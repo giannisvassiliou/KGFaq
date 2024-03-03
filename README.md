@@ -44,7 +44,7 @@ queries in the DBpedia endpoint(db.xlsx) - (contains the most frequent queries ,
 <br> <br>
 ## ULYSSES LLM Query
 </b>
-You can use the python script in this folder, to send to ChatGPT the most frequent queries, along with their output (fromt the Endpoint) as collected from the previous (parser) script, to create the 
+You can use the python script in this folder, to send to <b>ChatGPT</b> the most frequent queries, along with their output (fromt the Endpoint) as collected from the previous (parser) script, to create the 
 plain English question/answer pairs.
 </b>
 <br>
@@ -69,5 +69,5 @@ plain English question/answer pairs.
 <UL>
  <li>
  You have to use <b> YOUR OWN </b> OpenAI secret key, in the appropriate spots in the code  .</li>
-<li> Same code with minor changes, was used for leveraging Google's GEMINI in the procedure .</li>
+<li> Same code with minor changes, was used for leveraging Google's <b> GEMINI </b>in the procedure .</li>
 </UL>
