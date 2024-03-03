@@ -35,7 +35,7 @@ queries in the DBpedia endpoint(db.xlsx) - (contains the most frequent queries ,
   </ul>
 <br><b> BOTH to be given as input to the LLM query script
 <br>
-</b>b>
+</b>
 
 
 <br> <br>
