@@ -23,6 +23,7 @@ approach
 </b>
 
 The script parse_tsv_file.py  will USE THE SPARQL QUERY LOG (FROM DATA FOLDER) to query the Endpoint, and collect the answers/results
+<br>
  Will create:
 
  <ul>
