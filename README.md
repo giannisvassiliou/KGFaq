@@ -50,6 +50,8 @@ plain English question/answer pairs.
 
 <Li> <b> main.py </b>: reads the SPARQL queries in Results.xlsx and their responds in response_folder (contains json style replies of the SPARQL queries from Endpoint-done by Parser)
            and via the OPENAI API, translates the queries/responses to plain English questions/answers pairs </Li>
+           <br>
+           
    INPUTS:
    <UL>
 <li>Response_folder: The folder containing the ENDPOINT's response to the queries in json format, created by parser</Li>
