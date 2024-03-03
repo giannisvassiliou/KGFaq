@@ -25,7 +25,7 @@ approach
 The script parse_tsv_file.py  will USE THE SPARQL QUERY LOG (FROM DATA FOLDER) to query the Endpoint, and collect the answers/results
 <br>
  Will create:
-
+<br>
  <ul>
 <li> A Folder containing json files with the responses returned from querying DBpedia endpoint with the script (response_folder) </li>
 <li> An Excel file created by the script containing the saved DataFrames and the counts from the execution of the 
