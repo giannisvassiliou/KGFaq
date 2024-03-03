@@ -31,13 +31,14 @@ approach
 </b>
 You can use the python script in this folder, to send to ChatGPT the most frequent queries, along with their output (fromt the Endpoint) as collected from the previous (parser) script, to create the 
 plain English question/answer pairs.
+</b>
 <UL>
 
 <Li> main.py : reads the sparql queries in Results.xlsx and their responds in response_folder (contains json style replies of the SPARQL queries from Endpoint-done by Parser)
-           and via the OPENAI API, translates the queries/responses to plain English questions/answers</Li>
+           and via the OPENAI API, translates the queries/responses to plain English questions/answers pairs </Li>
    INPUTS:
    <UL>
-<li>input_resutls.json: The ENDPOINT's response to the queries  created by parser</Li>
+<li>input_results.json: The ENDPOINT's response to the queries  created by parser</Li>
 <li>Results.xlsx: The actual SPARQL queries (most frequent used), created by parser</li>
 
    </UL>
