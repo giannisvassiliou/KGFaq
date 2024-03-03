@@ -61,4 +61,4 @@ plain English question/answer pairs.
 
 <br>
 <br>
-<b> You have to use your OWN OPENAI secret key, in the appropriate spots in the code </b>
+<b> You have to use YOUR OWN OpenAI secret key, in the appropriate spots in the code </b>
