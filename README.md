@@ -52,7 +52,7 @@ plain English question/answer pairs.
 <UL>
 
 <Li> <b> main.py </b>: reads the SPARQL queries in Results.xlsx and their responses in response_folder (contains json style replies of the SPARQL queries from Endpoint-done by Parser)
-           and via the OPENAI API, translates the queries/responses to plain English questions/answers pairs </Li>
+           and via the OpenAI API, translates the queries/responses to plain English questions/answers pairs </Li>
            <br>
            
    INPUTS:
