@@ -70,6 +70,6 @@ plain English question/answer pairs.
 <br>
 <UL>
  <li>
- You have to use <b> YOUR OWN </b> OpenAI secret key, in the appropriate spots in the code  .</li>
+ You have to use <b> YOUR OWN  OpenAI's ChatGPT  secret key </b>, in the appropriate spots in the code  .</li>
 <li> The same code with minor changes, was used for leveraging  <b> Google's GEMINI </b>in the procedure .</li>
 </UL>
