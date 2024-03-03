@@ -28,8 +28,8 @@ approach
 
 <br> <br>
 ## ULYSSES LLM Query
-
-You can use the python script in this folder, to send to chatGPT the frequent queries, along with their output (fromt the endpoint) as collected from the previous (parser) script, to create the 
+</b>
+You can use the python script in this folder, to send to ChatGPT the frequent queries, along with their output (fromt the Endpoint) as collected from the previous (parser) script, to create the 
 plain English question/answer.
 <UL>
 
@@ -37,8 +37,8 @@ plain English question/answer.
            and via the OPENAI API, translates the queries/responses to plain English questions/answers</Li>
    INPUTS:
    <UL>
-<li>input_resutls.json: The ENDPOINT's response to the queries (created by parser)</Li>
-<li>Results.xlsx: The actual sparql queries (most frequent used), created by parser</li>
+<li>input_resutls.json: The ENDPOINT's response to the queries  created by parser</Li>
+<li>Results.xlsx: The actual SPARQL queries (most frequent used), created by parser</li>
    </UL>
    </UL>
 
