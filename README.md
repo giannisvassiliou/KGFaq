@@ -18,8 +18,9 @@ approach
 </p>
 
 ## ULYSSES Parser
-
+<b>
 <br> You can use the script in this folder, to query the SPARQL ENDPOINT, with the most frequent SPARQL queries from the log provided in the data folder.
+</b>
 <br><b> An Excel file will be created with various statistics and the most frequent queries. A folder "response_json" will be also created, containing the results of the most frequent queries.
 <br>to be given as input to the LLM query scrript
 <br>
