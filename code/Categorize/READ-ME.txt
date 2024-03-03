@@ -1,5 +1,6 @@
 
-script.py - The main file that sends a query to the API, to define a category for each query. Save the answer in 			    output_results.json
+script.py - The main file that sends a query to the API, to define a category for each query. 
+	   Save the answe in output_results.json
 	    Each sparql query is sent to the API every 60 sec, to prevent the rate Limit error.
 	    It contains local paths, and needs to be changed.
 
