@@ -33,7 +33,7 @@ The script parse_tsv_file.py  will USE THE SPARQL QUERY LOG (FROM DATA FOLDER) t
 queries in the DBpedia endpoint(db.xlsx) - (contains the most frequent queries , which will be used for FAQ creation)</li>
 
   </ul>
-<br><b> BOTHto be given as input to the LLM query scrript
+<br><b> BOTH to be given as input to the LLM query script
 <br>
 </b>b>
 
