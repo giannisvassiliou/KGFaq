@@ -19,7 +19,7 @@ approach
 
 ## ULYSSES Parser
 
-<br> You can use the script in this folder, to query the SPARQL ENDPOINT, with the queries from the log provided in the data folder.
+<br> You can use the script in this folder, to query the SPARQL ENDPOINT, with the most frequent SPARQL queries from the log provided in the data folder.
 <br><b> An Excel file will be created with various statistics and the most frequent queries. A folder "response_json" will be also created, containing the results of the most frequent queries.
 <br>to be given as input to the LLM query scrript
 <br>
@@ -29,8 +29,8 @@ approach
 <br> <br>
 ## ULYSSES LLM Query
 </b>
-You can use the python script in this folder, to send to ChatGPT the frequent queries, along with their output (fromt the Endpoint) as collected from the previous (parser) script, to create the 
-plain English question/answer.
+You can use the python script in this folder, to send to ChatGPT the most frequent queries, along with their output (fromt the Endpoint) as collected from the previous (parser) script, to create the 
+plain English question/answer pairs.
 <UL>
 
 <Li> main.py : reads the sparql queries in Results.xlsx and their responds in response_folder (contains json style replies of the SPARQL queries from Endpoint-done by Parser)
