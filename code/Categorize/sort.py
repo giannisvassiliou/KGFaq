@@ -5,7 +5,7 @@ import openai
 import json
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'use your OWN '
 
 
 def categorize_objects(data):
