@@ -33,12 +33,13 @@ You can use the python script in this folder, to send to ChatGPT the frequent qu
 plain English question/answer.
 <UL>
 
-<Li> main.py : reads the sparql queries in Results.xlsx and its responds in response_folder (contains json style replies of the queries from endpoint)
+<Li> main.py : reads the sparql queries in Results.xlsx and their responds in response_folder (contains json style replies of the SPARQL queries from Endpoint-done by Parser)
            and via the OPENAI API, translates the queries/responses to plain English questions/answers</Li>
    INPUTS:
    <UL>
 <li>input_resutls.json: The ENDPOINT's response to the queries  created by parser</Li>
 <li>Results.xlsx: The actual SPARQL queries (most frequent used), created by parser</li>
+
    </UL>
    </UL>
 
