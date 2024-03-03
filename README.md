@@ -26,6 +26,7 @@ The script <b>parse_tsv_file.py </b> will USE THE SPARQL QUERY LOG (FROM DATA FO
 <br>
  Will create:
 <br>
+<br>
  <ul>
 <li> A Folder containing json files with the responses returned from querying DBpedia Endpoint with the most 
  frequent queries (response_folder) </li>
