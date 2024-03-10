@@ -12,6 +12,7 @@ evaluate the results of each model using a human-constructed FAQ, contributing a
 approach
  <p align="center">
 
+# ON LINE DEMO AT <a href="https://clinquant-belekoy-781b9f.netlify.app/"> ULYSSES DEMO </a>
 </p>
 <p align="center">
   <img src="https://github.com/giannisvassiliou/KGFaq/blob/main/ulisses.png"/>
